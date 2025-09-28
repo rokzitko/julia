@@ -1,0 +1,2 @@
+#!/bin/sh
+mpirun -n 3 julia parallel.jl

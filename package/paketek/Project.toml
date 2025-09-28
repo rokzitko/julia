@@ -1,0 +1,8 @@
+name = "paketek"
+uuid = "c51b1ca3-adea-4133-a41a-97e9afee9212"
+authors = ["Rok Zitko <rok.zitko@ijs.si>"]
+version = "0.1.0"
+
+[deps]
+Base64 = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"

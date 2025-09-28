@@ -1,0 +1,2 @@
+#!/bin/sh
+julia --threads 5 threads.jl
